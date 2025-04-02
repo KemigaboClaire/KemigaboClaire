@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KemigaboClaire
 - 👀 I’m interested in coding, praying and listening to music 
-- 🌱 I’m currently learning computer science 
+- 🌱 I’m computer science graduate 
 - 💞️ I’m looking to collaborate with programmers 
 - 📫 you can reach me at clairekemigabo@gmail.com
 
